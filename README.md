@@ -241,3 +241,4 @@ Open the notebook in **Google Colab or Jupyter Notebook** and run the cells sequ
 This project combines **exploratory data analysis, customer segmentation, clustering, and recommendation-system evaluation** to study supermarket customer behaviour.
 
 The analysis identified three customer segments, while the recommendation experiments showed that the simple **Popularity Baseline** performed better than the personalised approaches on the selected evaluation setup. This highlights the importance of comparing advanced recommendation methods against strong and simple baselines.
+note:Dataset: The dataset is provided as a compressed ZIP file due to GitHub file-size limitations.
